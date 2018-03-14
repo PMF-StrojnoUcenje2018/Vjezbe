@@ -1,6 +1,6 @@
-# Vježbe kolegija Strojno učenje (PMF - Matematički odsjek) 2018
+# Strojno učenje - 2018: Vježbe
 
-Materijali za vježbe na kolegiju [Strojno učenje](https://web.math.pmf.unizg.hr/nastava/su/) Prirodoslovno-matematičkog fakulteta (PMF - Matematički odsjek) Sveučilišta u Zagrebu za akademsku godinu 2017./2018. 
+Materijali za vježbe kolegija [Strojno učenje](https://web.math.pmf.unizg.hr/nastava/su/) Prirodoslovno-matematičkog fakulteta (PMF - Matematički odsjek) Sveučilišta u Zagrebu za akademsku godinu 2017./2018. 
 
 ## Sadržaj vježbi
 
@@ -11,7 +11,7 @@ Materijali za vježbe na kolegiju [Strojno učenje](https://web.math.pmf.unizg.h
 * Vježba 5 - Grupiranje 
 * Vježba 6 - Duboko učenje
 
-## Uputstva za instalaciju Anaconde
+## Anaconda okruženje
 
 Vježbe se nalaze u obliku Python/Jupyter bilježnica (Jupyter notebooks) i testirane su na Windows, Linux i Mac OS X unutar [Anaconda](https://www.anaconda.com) (Python 3.6) okruženja (verzija 4.4.0). Za prvih pet vježbi vam neće trebati dodatni programski paketi pored onih koji dolaze s Anacondom. Za šestu vježbu (Duboko učenje) trebat će vam [TensorFlow](https://www.tensorflow.org) (verzija 1.3). Preporučamo da instalirate TensorFlow samo s CPU podrškom.
 
@@ -46,7 +46,7 @@ Slično kao i za Windows, najjednostavniji način za instalaciju TensorFlowa na 
 
 * za Mac OS X [https://www.tensorflow.org/install/install_mac#installing_with_anaconda](https://www.tensorflow.org/install/install_mac#installing_with_anaconda)
 
-## Klonirajte Github repozitorij
+## Github repozitorij
 
 Git je versioning program kojeg možete preuzeti s [https://git-scm.com/downloads](https://git-scm.com/downloads). Iz komandne linije ([Anaconda] Command Prompt na Windowsima ili Terminal na Linux/Mac OS X) pozicionirajte se u željeni direktorij i klonirajte git repozitorij naredbom:
   ```
@@ -55,7 +55,7 @@ Git je versioning program kojeg možete preuzeti s [https://git-scm.com/download
 
 Kao alternativnu možete jednostavno preuzeti zip datoteku s [https://github.com/PMF-StrojnoUcenje2018/Vjezbe/archive/master.zip](https://github.com/PMF-StrojnoUcenje2018/Vjezbe/archive/master.zip), no ukoliko dođe do promjena u kodu morat ćete ponoviti cijeli postupak!
 
-## Pokretanje Jupyter notebooks:
+## Jupyter
 Sve vježbe su spremljene kao Python bilježnice sustava Jupyter [http://jupyter.org/] kojeg možete pokrenuti na sljedeći način iz komadne linije:
 
 * aktivirajte okruženje `vjezbe` (za više detalja pogledajte [conda-cheatsheet](https://conda.io/docs/_downloads/conda-cheatsheet.pdf)):
