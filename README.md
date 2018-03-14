@@ -1,4 +1,4 @@
-# Strojno učenje - 2018: Vježbe
+# PMF Strojno učenje 2018 - Vježbe
 
 Materijali za vježbe kolegija [Strojno učenje](https://web.math.pmf.unizg.hr/nastava/su/) Prirodoslovno-matematičkog fakulteta (PMF - Matematički odsjek) Sveučilišta u Zagrebu za akademsku godinu 2017./2018. 
 
