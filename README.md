@@ -4,7 +4,7 @@ Materijali za vježbe kolegija [Strojno učenje](https://web.math.pmf.unizg.hr/n
 
 ## Sadržaj vježbi
 
-* Vježba 1 - Priprema podataka i uvod u osnovne alate
+* Vježba 1 - Uvod u osnovne alate i priprema podataka
 * Vježba 2 - Nadzirano učenje
 * Vježba 3 - Odabir značajki
 * Vježba 4 - Smanjenje dimenzionalnosti
