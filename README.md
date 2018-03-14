@@ -8,7 +8,7 @@ Materijali za vježbe kolegija [Strojno učenje](https://web.math.pmf.unizg.hr/n
 * Vježba 2 - Nadzirano učenje
 * Vježba 3 - Odabir značajki
 * Vježba 4 - Smanjenje dimenzionalnosti
-* Vježba 5 - Grupiranje 
+* Vježba 5 - Učenje bez nadzora 
 * Vježba 6 - Duboko učenje
 
 ## Anaconda okruženje
