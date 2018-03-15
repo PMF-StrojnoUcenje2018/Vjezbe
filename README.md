@@ -24,11 +24,11 @@ Slijedite uputstva u nastavku za vaš OS (Windows, Linux, Mac OS X):
 TensorFlow instalacija je testirana na 64-bitnim Windows 7 i Windows 10, pošto trenutno nema podrške za TensorFlow na 32-bitnim sustavima. Preporučamo da instalirate TensorFlow u Anaconda okruženje. Preuzmite i instalirajte program Anaconda (Python 3.6) za Windowse s [https://www.anaconda.com/download/](https://www.anaconda.com/download/).
 
 Potom pokrenite Anaconda Command Prompt:
-* Stvorite conda environment `vjezbe`:
+* Stvorite Anaconda okruženje (conda environment) naziva `vjezbe`(ili naziv po vlastitom izboru):
   ```
   conda create --name vjezbe python=3.6 anaconda
   ```
-* Aktivirajte `vjezbe` s:
+* Aktivirajte stvoreno okruženje `vjezbe` s:
   ```
   activate vjezbe
   ```
