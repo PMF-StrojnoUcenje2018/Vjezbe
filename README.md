@@ -28,7 +28,7 @@ Potom pokrenite Anaconda Command Prompt:
   ```
   conda create --name vjezbe python=3.6 anaconda
   ```
-* Akivirajte `vjezbe` s:
+* Aktivirajte `vjezbe` s:
   ```
   activate vjezbe
   ```
