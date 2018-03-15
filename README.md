@@ -13,12 +13,12 @@ Materijali za vježbe kolegija [Strojno učenje](https://web.math.pmf.unizg.hr/n
 
 ## Anaconda okruženje
 
-Vježbe se nalaze u obliku Python/Jupyter bilježnica (Jupyter notebooks) i testirane su na Windows, Linux i Mac OS X unutar [Anaconda](https://www.anaconda.com) (Python 3.6) okruženja (verzija 4.4.0). Za prvih pet vježbi vam neće trebati dodatni programski paketi pored onih koji dolaze s Anacondom. Za šestu vježbu (Duboko učenje) trebat će vam [TensorFlow](https://www.tensorflow.org) (verzija 1.6). Preporučamo da instalirate TensorFlow samo s CPU podrškom.
+Vježbe se nalaze u obliku Python/Jupyter bilježnica (Jupyter notebooks) i testirane su na Windows, Linux i Mac OS X unutar [Anaconda](https://www.anaconda.com) (Python 3.6) okruženja (verzija 4.4.0). Za prvih pet vježbi vam neće trebati dodatni programski paketi pored onih koji dolaze s Anacondom. Za šestu vježbu (Duboko učenje) trebat će vam [TensorFlow](https://www.tensorflow.org) (verzija 1.6). Preporučamo da instalirate TensorFlow samo s CPU podrškom ako ne koristite računalni sustav s NVIDIA grafičkom karticom i podrškom za CUDA 9.0.
 
 Slijedite uputstva u nastavku za vaš OS (Windows, Linux, Mac OS X):
 * Preuzmite i instalirajte programski sustav Anaconda 3 s [https://www.anaconda.com/download/](https://www.anaconda.com/download/)
 * Stvorite Anaconda okruženje (conda environment) s Python 3.6 i pretpostavljenim Anaconda Python bibliotekama (pogledajte [conda-cheatsheet](https://conda.io/docs/_downloads/conda-cheatsheet.pdf)). U stvorenom i aktiviranom okruženju mogu se koristiti pripadne Python biblioteke i instalirati nove.
-* Instalirajte TensorFlow 1.6 s CPU podrškom koristeći pip (uputstva na [https://www.tensorflow.org/install/](https://www.tensorflow.org/install/)).
+* Instalirajte TensorFlow 1.6 s CPU/GPU podrškom koristeći pip (uputstva na [https://www.tensorflow.org/install/](https://www.tensorflow.org/install/)).
 
 ### Windows
 TensorFlow instalacija je testirana na 64-bitnim Windows 7 i Windows 10, pošto trenutno nema podrške za TensorFlow na 32-bitnim sustavima. Preporučamo da instalirate TensorFlow u Anaconda okruženje. Preuzmite i instalirajte program Anaconda (Python 3.6) za Windowse s [https://www.anaconda.com/download/](https://www.anaconda.com/download/).
