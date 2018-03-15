@@ -18,7 +18,7 @@ Vježbe se nalaze u obliku Python/Jupyter bilježnica (Jupyter notebooks) i test
 Slijedite uputstva u nastavku za vaš OS (Windows, Linux, Mac OS X):
 * Preuzmite i instalirajte programski sustav Anaconda 3 s [https://www.anaconda.com/download/](https://www.anaconda.com/download/)
 * Stvorite Anaconda okruženje (conda environment) s Python 3.6 i pretpostavljenim Anaconda Python bibliotekama (pogledajte [conda-cheatsheet](https://conda.io/docs/_downloads/conda-cheatsheet.pdf))
-* Instalirajte TensorFlow 1.6 s CPU podrškom uz pomoć pip-a (uputstva na [https://www.tensorflow.org/install/](https://www.tensorflow.org/install/))
+* Instalirajte TensorFlow 1.6 s CPU podrškom koristeći pip (uputstva na [https://www.tensorflow.org/install/](https://www.tensorflow.org/install/)).
 
 ### Windows
 TensorFlow instalacija je testirana na 64-bitnim Windows 7 i Windows 10, pošto trenutno nema podrške za TensorFlow na 32-bitnim sustavima. Preporučamo da instalirate TensorFlow u Anaconda okruženje. Preuzmite i instalirajte program Anaconda (Python 3.6) za Windowse s [https://www.anaconda.com/download/](https://www.anaconda.com/download/).
@@ -37,10 +37,10 @@ Potom pokrenite Anaconda Command Prompt:
   pip install --ignore-installed --upgrade tensorflow
   ```
 
-Za više informacija o tome kako instalirati TensorFlow na Windows OS-u pogledajte [https://www.tensorflow.org/install/install_windows](https://www.tensorflow.org/install/install_windows). Ako već imate stariju verziju programa Anaconda i dalje možete provesti navedenu proceduru, čime ćete instalirati Python 3.6 i učiniti ga dostupnim unutar `vjezbe` environment. Za više informacija oko rukovanja s Anaconda okruženjima pogledajte [Managing environments](https://conda.io/docs/user-guide/tasks/manage-environments.html) u Anaconda dokumentaciji.
+Za više informacija o tome kako instalirati programsku biblioteku TensorFlow na Windows OS-u pogledajte [https://www.tensorflow.org/install/install_windows](https://www.tensorflow.org/install/install_windows). Ako već imate stariju verziju programa Anaconda i dalje možete provesti navedenu proceduru, čime ćete instalirati Python 3.6 i učiniti ga dostupnim unutar okruženja `vjezbe`. Za više informacija oko rukovanja s Anaconda okruženjima pogledajte [Managing environments](https://conda.io/docs/user-guide/tasks/manage-environments.html) u Anaconda dokumentaciji.
 
 ### Linux/Mac OS X
-Slično kao i za Windows, najjednostavniji način za instalaciju TensorFlowa na Linuxu ili Mac OS X je instalirati ga samo s CPU podrškom unutar Anaconda okruženja prema proceduri opisanoj ranije. Za detaljnija uputstva pogledajte:
+Slično kao i za Windows, najjednostavniji način za instalaciju programskog paketa TensorFlow na Linuxu ili Mac OS X je instalirati ga samo s CPU podrškom unutar Anaconda okruženja prema proceduri opisanoj ranije. Za detaljnija uputstva pogledajte:
 
 * za Linux [https://www.tensorflow.org/install/install_linux#installing_with_anaconda](https://www.tensorflow.org/install/install_linux#installing_with_anaconda)
 
