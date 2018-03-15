@@ -17,7 +17,7 @@ Vježbe se nalaze u obliku Python/Jupyter bilježnica (Jupyter notebooks) i test
 
 Slijedite uputstva u nastavku za vaš OS (Windows, Linux, Mac OS X):
 * Preuzmite i instalirajte programski sustav Anaconda 3 s [https://www.anaconda.com/download/](https://www.anaconda.com/download/)
-* Stvorite Anaconda okreuženje (conda environment) s Python 3.6 i pretpostavljenim Anaconda Python bibliotekama (pogledajte [conda-cheatsheet](https://conda.io/docs/_downloads/conda-cheatsheet.pdf))
+* Stvorite Anaconda okruženje (conda environment) s Python 3.6 i pretpostavljenim Anaconda Python bibliotekama (pogledajte [conda-cheatsheet](https://conda.io/docs/_downloads/conda-cheatsheet.pdf))
 * Instalirajte TensorFlow 1.6 s CPU podrškom uz pomoć pip-a (uputstva na [https://www.tensorflow.org/install/](https://www.tensorflow.org/install/))
 
 ### Windows
