@@ -57,7 +57,7 @@ Kako bi preuzeli ažurirane materijale za vježbe u prije klonirani repozitorij,
   git pull origin master
   ```
 
-Kao alternativnu za gorenje korake možete jednostavno preuzmiti zip arhivu trenutnog stanja repozitorija s [https://github.com/PMF-StrojnoUcenje2018/Vjezbe/archive/master.zip](https://github.com/PMF-StrojnoUcenje2018/Vjezbe/archive/master.zip).
+Kao alternativnu za gore navedeni postupak možete preuzmiti zip arhivu trenutnog stanja repozitorija s [https://github.com/PMF-StrojnoUcenje2018/Vjezbe/archive/master.zip](https://github.com/PMF-StrojnoUcenje2018/Vjezbe/archive/master.zip).
 
 ## Jupyter
 Sve vježbe su spremljene kao Python bilježnice sustava Jupyter [http://jupyter.org/] kojeg možete pokrenuti na sljedeći način iz komadne linije:
