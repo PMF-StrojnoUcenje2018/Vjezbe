@@ -52,7 +52,7 @@ Git je versioning program kojeg možete preuzeti s [https://git-scm.com/download
   ```
   git clone https://github.com/PMF-StrojnoUcenje2018/Vjezbe.git
   ```
-Kako bi preuzeli ažurirane materijale za vježbe nakon pozicioniranja u već klonirani repozitorij, koristite git naredbu:
+Kako bi preuzeli ažurirane materijale za vježbe u prije klonirani repozitorij, pozicionirajte se u drirektorij kloniranog repozitorija i preuzmite nove promjene repozitorija koristeći git naredbu:
   ```
   git pull origin master
   ```
