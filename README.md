@@ -52,8 +52,12 @@ Git je versioning program kojeg možete preuzeti s [https://git-scm.com/download
   ```
   git clone https://github.com/PMF-StrojnoUcenje2018/Vjezbe.git
   ```
+Kako bi preuzeli ažurirane materijale za vježbe nakon pozicioniranja u već klonirani repozitorij, koristite git naredbu:
+  ```
+  git pull origin master
+  ```
 
-Kao alternativnu možete jednostavno preuzeti zip datoteku s [https://github.com/PMF-StrojnoUcenje2018/Vjezbe/archive/master.zip](https://github.com/PMF-StrojnoUcenje2018/Vjezbe/archive/master.zip), no ukoliko dođe do promjena u kodu morat ćete ponoviti cijeli postupak!
+Kao alternativnu za gorenje korake možete jednostavno preuzmiti zip arhivu trenutnog stanja repozitorija s [https://github.com/PMF-StrojnoUcenje2018/Vjezbe/archive/master.zip](https://github.com/PMF-StrojnoUcenje2018/Vjezbe/archive/master.zip).
 
 ## Jupyter
 Sve vježbe su spremljene kao Python bilježnice sustava Jupyter [http://jupyter.org/] kojeg možete pokrenuti na sljedeći način iz komadne linije:
