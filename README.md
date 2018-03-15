@@ -48,7 +48,7 @@ Slično kao i za Windows, najjednostavniji način za instalaciju programskog pak
 
 ## Github repozitorij
 
-Git je versioning program kojeg možete preuzeti s [https://git-scm.com/downloads](https://git-scm.com/downloads). Iz komandne linije ([Anaconda] Command Prompt na Windowsima ili Terminal na Linux/Mac OS X) pozicionirajte se u željeni direktorij i klonirajte git repozitorij naredbom:
+Git je sustav za upravljanje izvornim kodom, klijentski program za korištenje sustava Git možete preuzeti s [https://git-scm.com/downloads](https://git-scm.com/downloads). Iz komandne linije ([Anaconda] Command Prompt na Windowsima ili Terminal na Linux/Mac OS X) pozicionirajte se u željeni direktorij i klonirajte git repozitorij naredbom:
   ```
   git clone https://github.com/PMF-StrojnoUcenje2018/Vjezbe.git
   ```
