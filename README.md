@@ -37,7 +37,7 @@ Potom pokrenite Anaconda Command Prompt:
   pip install --ignore-installed --upgrade tensorflow
   ```
 
-Za više informacija o tome kako instalirati programsku biblioteku TensorFlow na Windows OS-u pogledajte [https://www.tensorflow.org/install/install_windows](https://www.tensorflow.org/install/install_windows). Ako već imate stariju verziju programa Anaconda i dalje možete provesti navedenu proceduru, čime ćete instalirati Python 3.6 i učiniti ga dostupnim unutar okruženja `vjezbe`, no možda će biti potrebno naknadno nadograditi neki od Python paketa, primjerice `numpy`. To možete napraviti unutar okruženja `vježbe` koristeći na sljedeći način:
+Za više informacija o tome kako instalirati programsku biblioteku TensorFlow na Windows OS-u pogledajte [https://www.tensorflow.org/install/install_windows](https://www.tensorflow.org/install/install_windows). Ako već imate stariju verziju programa Anaconda i dalje možete provesti navedenu proceduru, čime ćete instalirati Python 3.6 i učiniti ga dostupnim unutar okruženja `vjezbe`, no možda će biti potrebno naknadno nadograditi neki od Python paketa, primjerice `numpy`. To možete napraviti unutar okruženja `vježbe` na sljedeći način:
   ```
   conda install -c anaconda numpy
   ```
