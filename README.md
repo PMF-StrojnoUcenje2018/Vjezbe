@@ -6,7 +6,7 @@ Materijali za vježbe kolegija [Strojno učenje](https://web.math.pmf.unizg.hr/n
 
 * [Vježba 1 - Uvod u osnovne alate i priprema podataka](https://github.com/PMF-StrojnoUcenje2018/Vjezbe/blob/master/Notebooks/PMF_SU_2018_Vjezbe1_00_Osnove.ipynb)
 * [Vježba 2 - Nadzirano učenje](https://github.com/PMF-StrojnoUcenje2018/Vjezbe/blob/master/Notebooks/PMF_SU_2018_Vjezbe2_00_Nadzirani_modeli.ipynb)
-* Vježba 3 - Odabir značajki
+* [Vježba 3 - Odabir značajki](https://github.com/PMF-StrojnoUcenje2018/Vjezbe/blob/master/Notebooks/PMF_SU_2018_Vjezbe3_00_Odabir_znacajki.ipynb)
 * Vježba 4 - Smanjenje dimenzionalnosti
 * Vježba 5 - Učenje bez nadzora 
 * Vježba 6 - Duboko učenje
